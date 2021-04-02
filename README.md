@@ -1,2 +1,3 @@
 # OmniFood
-[online Meal Booking]{https://foodsomni.netlify.app/}
+[[OmniFood](https://foodsomni.netlify.app/)]
+
